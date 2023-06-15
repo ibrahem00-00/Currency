@@ -1,0 +1,34 @@
+class AppStrings {
+  static const String signIn = "Sign in";
+  static const String signup = "Sign Up";
+  static const String login = "Login";
+  static const String email = "email";
+  static const String password = "password";
+  static const String register = "register";
+  static const String emailEmpty = "Email is empty";
+  static const String validEmail = "Entre a valid email";
+  static const String success = "success";
+  static const String alreadyHaveAccount = "Already have an account?";
+  static const String dontHaveAccount = "Don't have an account?";
+  static const String continueWithGoogle = "Continue with Google";
+  static const String name = "name";
+  static const String required = "Required";
+  static const String or = "Or";
+  static const String home = "Home";
+  static const String profile = "Profile";
+  static const String search = "Search";
+  static const String formGallery = "From Gallery";
+  static const String addPhoto = "Add Photo";
+  static const String changeTheme = "Change Theme";
+  static const String changeLanguage = "Change Language";
+  static const String logOut = "Log Out";
+  static const String cryptoCurrency = "Crypto Currency";
+  static const String rank = "Rank";
+  static const String error = "There is an error";
+  static const String areYouSure = "Are you sure?";
+  static const String cancel = "Cancel";
+  static const String sure = "Sure";
+  static const String camera = "camera";
+  static const String gallery = "Gallery";
+  static const String photoUrl = "photoUrl";
+}
